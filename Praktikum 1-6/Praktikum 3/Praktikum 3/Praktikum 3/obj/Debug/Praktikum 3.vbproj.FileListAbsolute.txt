@@ -1,0 +1,13 @@
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\bin\Debug\Praktikum 3.exe.config
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\bin\Debug\Praktikum 3.exe
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\bin\Debug\Praktikum 3.pdb
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\bin\Debug\Praktikum 3.xml
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\obj\Debug\Praktikum 3.vbproj.AssemblyReference.cache
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\obj\Debug\Praktikum_3.Form1.resources
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\obj\Debug\Praktikum_3.Resources.resources
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\obj\Debug\Praktikum 3.vbproj.GenerateResource.cache
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\obj\Debug\Praktikum 3.vbproj.CoreCompileInputs.cache
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\obj\Debug\Praktikum 3.exe
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\obj\Debug\Praktikum 3.xml
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\obj\Debug\Praktikum 3.pdb
+C:\Users\MSILAPTOP\Desktop\Programming\belajar VB\Praktikum 1-6\Praktikum 3\Praktikum 3\Praktikum 3\obj\Debug\Praktikum_3.Form2.resources
